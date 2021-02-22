@@ -1,4 +1,1 @@
-# hello-world
-Learning GitHub
-
-Be a miracle!
+# Be a miracle
